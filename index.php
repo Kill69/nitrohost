@@ -1,4 +1,4 @@
 <?php
-$meno = ("$meno");
+echo("Ahoj NitroHoste!");
 
 ?>
